@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:80e1f4,100:d4f5f7&height=180&text=Hello👋I'm%20Jaewook!&animation=fadeIn&fontColor=000000&fontSize=60" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👨‍💻 About Me </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 현재 2년 차 백엔드 개발자로, 이전에는 외식업계에서 5년간 고객과 직접 소통하며 서비스를 제공한 경험이 있습니다.</li></li>이러한 경험 덕분에, 개발자로서도 단순히 기능 구현에 그치지 않고 사용자의 입장에서 문제를 정의하고 해결하는 데 익숙합니다.</li></li>사용자뿐만 아니라 운영, 기획, 개발 등 다양한 이해관계자의 관점을 고려해 실용적이고 균형 잡힌 솔루션을 만드는 것을 목표로 삼고 있습니다.</li></li>다양한 기업의 코드베이스를 경험하며 코드 리딩 능력을 키워왔고, 이를 바탕으로 기존 시스템의 구조를 빠르게 파악하고 개선 방향을 제시하는 데 강점이 있습니다.</li></li>앞으로도 사용자에게 더 나은 서비스를 제공하기 위해, 기술적 역량뿐만 아니라 커뮤니케이션 능력을 함께 갖춘 개발자로 성장해 나가겠습니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
